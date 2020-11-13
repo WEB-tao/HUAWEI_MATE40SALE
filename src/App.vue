@@ -12,15 +12,20 @@
 #app {
   text-align: center;
   margin: 0 auto;
-  color: #ffffff;
   /* width: 1025px; */
   
 }
 
-#nav {
-  padding: 30px;
-  background: red;
+p,a,div,h1,span{
+  font-family: Arial,Helvetica,sans-serif,"Lucida Grande",Verdana;
 }
+
+/* 全站清除a下划线设置灰色 */
+a{
+  text-decoration:none;
+  color: #363636;
+}
+
 
 
 body{
