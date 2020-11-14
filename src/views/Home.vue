@@ -124,7 +124,7 @@
 
       <!-- 图片商品排版开始 -->
       <div class="goods">
-        <div class="z">
+        <div class="z"> 
             <img style="width:100%" src="https://res.vmallres.com/pimages//pages/picImages/88475369150616357488.png" alt="">
             <img style="width:100%" src="https://res.vmallres.com/pimages//pages/picImages/59906839050613860995.png" alt="">
             <img style="width:100%" src="https://res.vmallres.com/pimages//pages/picImages/14380316140611308341.png" alt="">
