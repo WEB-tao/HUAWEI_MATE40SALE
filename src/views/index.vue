@@ -87,7 +87,7 @@
 
 <style>
     .min{
-        width: 100%;
+        width: 200%;
         height: 388px;
         margin: 0 auto;
     }

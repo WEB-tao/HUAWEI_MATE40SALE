@@ -187,15 +187,15 @@
 }
 #home .header .header_2 .s-ctn {
     white-space: nowrap;
-    padding: 10px 0 10px 0;
+    padding: 5px 0 10px 0;
 }
 /*弹性横行布局*/
 #home .header .header_2 .s-ctn div {
     display: inline-block;   
-}
+} 
 
 /* 字体 */
-#home .header .s-ctn a{
+#home .header .s-ctn a{ 
     font-size: 14px;
     margin: 0 15px 0 15px;
     text-align: left;
@@ -209,7 +209,7 @@
 
 /* 内容主体,最外层容器盒子------------------------- */
 #home .subject{
-  padding: 85px 0 60px 0;
+  padding: 75px 0 60px 0;
 }
 
 /* 1.轮播图最外层容器盒子 */
@@ -333,6 +333,8 @@
     #home .option ul>li>p{font-size: 14px;}
 
     #home .slideshow>.ss{height: 175px !important;}
+    #home .subject{padding: 80px 0 60px 0;
+}
 }
 
 
