@@ -136,6 +136,13 @@
           <img style="width:100%" src="https://res.vmallres.com/pimages//pages/picImages/46248384040618384264.png" alt="">
         </div>
       </div>
+      <div class="tan1">
+        <div class="s10">
+          <img width="100%" src="https://res.vmallres.com/pimages//product/6941487202294/428_428_C872B27DB9F580B87F1B877905E8429F65724D6CD860252Dmp.png" alt="">
+        </div>
+        <div class="s10">2</div>
+        <div class="s10">3</div>
+      </div>
       <!-- 图片商品排版结束 -->
      
     </div>
@@ -147,6 +154,23 @@
 </template>
 
 <style>
+
+.tan1{
+  display:flex;
+  justify-content:space-around;
+  margin-top: 10px;
+}
+
+
+.s10{
+  width: 32%;
+  border: 1px solid #000;
+  background-color: #f9f9f9;
+}
+
+
+
+
 
 #home{
   background: #fff;
